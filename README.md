@@ -13,7 +13,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](www.
 
 - Solution URL: [View Solution on GitHub](https://github.com/gsnezana7/qr-code-component)
 
-- Live Site URL: [View Live Site](gsnezana7.github.io)
+- Live Site URL: [View Live Site](https://gsnezana7.github.io/qr-code-component/)
 
 
 ## My process
@@ -39,5 +39,4 @@ I am proud that I was able to complete the challenge independently and restore m
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Snezana](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Snezana](https://www.frontendmentor.io/home)
