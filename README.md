@@ -8,10 +8,13 @@ This is my solution to the [QR code component challenge on Frontend Mentor](www.
 
 ![](./screenshot.png)
 
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution on GitHub](https://github.com/gsnezana7/qr-code-component)
+
+- Live Site URL: [View Live Site](gsnezana7.github.io)
+
 
 ## My process
 
